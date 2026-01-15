@@ -79,4 +79,12 @@ h2{
 h3{
    width:220px;
   height:70px;
-  
+  margin-top:20px;
+  margin-bottom:20px;
+  font-size:20px;
+  line-height:70px;
+  text-align:center;
+  color:darkred;
+  background-image:url(images/frame.png);
+  float:left;
+}
